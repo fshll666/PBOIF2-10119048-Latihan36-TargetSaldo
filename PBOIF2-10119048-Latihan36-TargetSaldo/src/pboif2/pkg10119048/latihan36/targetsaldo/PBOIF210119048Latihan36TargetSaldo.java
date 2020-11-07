@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan36.targetsaldo;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Menampilkan Program Target saldo tabungan
  */
 public class PBOIF210119048Latihan36TargetSaldo {
 
@@ -23,7 +27,8 @@ public class PBOIF210119048Latihan36TargetSaldo {
         target.setBunga(0.08);
         
         target.hitungTarget();
-        
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
     
 }

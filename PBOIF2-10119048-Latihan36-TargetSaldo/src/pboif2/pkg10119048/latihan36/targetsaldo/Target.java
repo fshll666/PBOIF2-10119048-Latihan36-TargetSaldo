@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan36.targetsaldo;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Class untuk menghitung target saldo tabungan
  */
 public class Target {
     private int saldoTarget, saldo;
@@ -33,5 +37,7 @@ public class Target {
             System.out.println("Saldo di bulan ke-" + i + " Rp. " 
                     + String.format("%,d", saldo).replace(',', '.'));
         }
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
 }
